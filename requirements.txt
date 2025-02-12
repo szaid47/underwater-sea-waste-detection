@@ -1,0 +1,5 @@
+streamlit>=1.29.0
+opencv-python
+ultralytics
+Pillow
+
