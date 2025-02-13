@@ -6,3 +6,5 @@ ultralytics
 torch
 torchvision
 torchaudio
+imageio[ffmpeg]
+opencv-python-headless
